@@ -1,13 +1,15 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+
 project:
   id: 0df9e395-dd7e-4adb-8806-2b61c66655de
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: ASTR 501 + 513
+  description: Introduction to Computing + Statistical and Computational Methods in Astrophysics
+  keywords: [computing, statistics, numerics]
+  authors: [Chi-kwan Chan, Shuo Kong]
   github: https://github.com/ua-2025q3-astr501-513/ua-2025q3-astr501-513.github.io
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+
 site:
   template: book-theme
   # options:
