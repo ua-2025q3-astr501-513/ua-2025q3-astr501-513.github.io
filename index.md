@@ -21,15 +21,15 @@ Please include "ASTR 501" or "ASTR 513" in subjects of emails
 
 #  | Week | Monday (513) | Tuesday (501) | Wednesday (513)
 --- | --- | --- | --- | ---
-1  | Aug 24-Aug 30 | Overview                                            | Python and Jupyter Notebook       | Data Representation and Round-Off Errors
-2  | Aug 31-Sep  6 | No class (Labor Day)                                | Unix/Linux, Shell, and Git        | Numerical Linear Algebra
-3  | Sep  7-Sep 13 | Fourier Transform and Spectral Analyses             | Make, Workflow, and GitHub Action | Interpolation and Extrapolation
-4  | Sep 14-Sep 20 | Numerical and Automatic Derivatives                 | C/C++                             | Numerical Integration of Functions
-5  | Sep 21-Sep 27 | Root Finding and Optimization Methods               | HPC and Slurm                     | ODE Integrators I: Explicit Methods
-6  | Sep 28-Oct  4 | ODE integrators II: implicit and symplectic methods | Parallel Computing                | Numerical PDE I: Finite Difference
-7  | Oct  5-Oct 11 | Numerical PDE II: Spectral Methods                  | Code optimization                 | Numerical PDE II: Finite Volume Methods
-8  | Oct 12-Oct 18 | Project Presentations                               | Projects Presentations            | Projects Presentations
-9  | Oct 19-Oct 25 |
+1  | Aug 24-Aug 30 | Overview (Proj brainstorm)                               | Jupyter Notebook and Python              | Data Representation and Round-Off Errors (HW1 assigned)
+2  | Aug 31-Sep  6 | No class (Labor Day)                                     | Unix/Linux, Shell, and Git               | Numerical Linear Algebra (HW1 Q&A)
+3  | Sep  7-Sep 13 | Fourier Transform and Spectral Analyses (Proj selection) | Software Environment and Cloud Computing | Interpolation and Extrapolation (HW1 due, HW2 assigned)
+4  | Sep 14-Sep 20 | Numerical and Automatic Derivatives                      | Make, Workflow, and GitHub Action        | Numerical Integration of Functions (HW2 Q&A)
+5  | Sep 21-Sep 27 | Root Finding and Optimization Methods (Proj feedback)    | C/C++                                    | ODE Integrators I: Explicit Methods (HW2 due, HW3 assigned)
+6  | Sep 28-Oct  4 | ODE integrators II: implicit and symplectic methods      | Code optimization                        | Numerical PDE I: Finite Difference (HW3 Q&A)
+7  | Oct  5-Oct 11 | Numerical PDE II: Spectral Methods                       | Parallel Computing                       | Numerical PDE III: Finite Volume Methods (HW3 due, HW4 assigned)
+8  | Oct 12-Oct 18 | Project Presentations                                    | HPC and Slurm                            | Projects Presentations (HW4 Q&A)
+9  | Oct 19-Oct 25 | | | (HW4 due)
 10 | Oct 26-Nov  1 |
 11 | Nov  2-Nov  8 |
 12 | Nov  9-Nov 15 | | No class (Veterans Day) |
