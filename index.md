@@ -36,5 +36,4 @@ Please include "ASTR 501" or "ASTR 513" in subjects of emails
 13 | Nov 16-Nov 22 |
 14 | Nov 23-Nov 29 |
 15 | Nov 30-Dec  6 |
-16 | Dec  7-Dec 13 | | | Visit UA HPC (?)
-17 | Dec 14-Dec 20 | Final exams (?)
+16 | Dec  7-Dec 13 | | Visit UA HPC (?) | Final exams
