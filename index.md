@@ -1,21 +1,34 @@
 # Welcome to ASTR 501 + 513
 
-**Course Number & Title:**
-[ASTR 501-Introduction to Computing](https://catalog.arizona.edu/courses/0413111) and
-[ASTR 513-Statistical and Computational Methods in Astrophysics](https://catalog.arizona.edu/courses/0404141)
-
-**Course Website:** https://ua-2025q3-astr501-513.github.io
-
-**Full Syllabus:** Pending
-
-**Time:**
-ASTR 513, Monday & Wednesday 11:00am-12:15pm;
-ASTR 501, Tuesday 2:00-3:35pm
-
-**Location:** [Steward Observatory, Room 208](https://map.arizona.edu/65/0208)
-
-**Instructors:** Chi-kwan Chan and Shuo Kong;
-Please include "ASTR 501" or "ASTR 513" in subjects of emails
+<table>
+  <tr>
+    <td> <b>Course Number & Title:</b> </td>
+    <td> <a href="https://catalog.arizona.edu/courses/0413111">ASTR 501<br/>Introduction to Computing</a> </td>
+    <td> <a href="https://catalog.arizona.edu/courses/0404141">ASTR 513<br/>Statistical and Computational Methods in Astrophysics</a> </td>
+  </tr>
+  <tr>
+    <td> <b>Course Website:</b></td>
+    <td colspan="2"> <a>https://ua-2025q3-astr501-513.github.io</a> </td>
+  </tr>
+  <tr>
+    <td> <b>Full Syllabus:</b></td>
+    <td> <a href="syllabus-501.md">ASTR 501 Syllabus</a> </td>
+    <td> <a href="syllabus-513.md">ASTR 513 Syllabus</a> </td>
+  </tr>
+  <tr>
+    <td> <b>Date & Time:</b></td>
+    <td> Monday & Wednesday<br/>11:00am-12:15pm </td>
+    <td> Tuesday<br/>2:00-3:35pm </td>
+  </tr>
+  <tr>
+    <td> <b>Location:</b></td>
+    <td colspan="2"> <a href="https://map.arizona.edu/65/0208">Steward Observatory, Room 208</a> </td>
+  </tr>
+  <tr>
+    <td> <b>Instructors:</b></td>
+    <td colspan="2"> Chi-kwan Chan and Shuo Kong;<br/>please include "ASTR 501" or "ASTR 513" in subjects of emails </td>
+  </tr>
+</table>
 
 ## Schedule
 
