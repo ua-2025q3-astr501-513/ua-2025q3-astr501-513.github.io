@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td> <b>Instructors:</b></td>
-    <td colspan="2"> Chi-kwan Chan and Shuo Kong;<br/>please include "ASTR 501" or "ASTR 513" in subjects of emails </td>
+    <td colspan="2"> <a href="mailto:chanc@arizona.edu?subject=ASTR 501+513">Chi-kwan Chan</a> and <a href="mailto:shuokong@arizona.edu?subject=ASTR 501+513">Shuo Kong</a>;<br/>please include "ASTR 501" or "ASTR 513" in subjects of emails </td>
   </tr>
 </table>
 

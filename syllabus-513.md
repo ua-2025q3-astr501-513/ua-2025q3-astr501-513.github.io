@@ -24,12 +24,12 @@ This course is recommended in conjunction with
 ### Instructor and Contact Information
 
 **Instructor:** Chi-kwan Chan  
-**Email:** chanc@arizona.edu (please include "ASTR 513" in subjects of emails)  
+**Email:** [chanc@arizona.edu](mailto:chanc@arizona.edu?subject=ASTR%20513) (please include "ASTR 513" in subjects of emails)  
 **Office:** Steward Observatory N332  
 **Office Hours:** TBD
 
 **Instructor:** Shuo Kong  
-**Email:** shuokong@arizona.edu (please include "ASTR 513" in subjects of emails)  
+**Email:** [shuokong@arizona.edu](mailto:shuokong@arizona.edu?subject=ASTR%20513) (please include "ASTR 513" in subjects of emails)  
 **Office:** Steward Observatory N328  
 **Office Hours:** TBD
 
