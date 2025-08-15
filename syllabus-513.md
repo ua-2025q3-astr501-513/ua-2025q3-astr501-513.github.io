@@ -67,6 +67,31 @@ Upon completion of this course, students will be able to:
 * Appreciate computational complexity and develop a basic awareness of
   numerical errors and their impact on research outcomes.
 
+Specifically, a recent core class homogenization suggested covering the
+following topics:
+* Computational Methods:
+  * Unix, C, and Python
+  * Introduction to numerical analysis; errors, accuracy, stable and unstable computations
+  * Root Finding: Bisection and Newton-Raphson
+  * Numerical Integration
+  * Ordinary Differential Equations (e.g., Runge-Kutta method)
+* Statistical Methods:
+  * Intro and Definitions: The Normal Distribution, Detection of Signal, Correlation, Data
+  * Modeling, Sample Comparison
+  * Random Numbers
+  * Distribution Functions I; Exponential & Gaussian Distributions
+  * Distribution Functions II; Bivariate Gaussians; Binomial; Poisson
+  * Markov Chain Monte Carlo
+  * Error Propagation - Transformation of Random Variables
+  * Frequentist Statistics - Confidence Intervals
+  * Frequentist and Bayesian Statistics
+  * Frequentist Parameter Estimation; Pearson's chi2 test
+  * Bayesian parameter estimation for linear models
+  * Inferring Distributions
+  * Fast Fourier Transforms
+
+
+
 ## Policies of Course
 
 ### Absence and Class Participation Policy
