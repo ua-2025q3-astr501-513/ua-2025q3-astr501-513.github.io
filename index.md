@@ -42,11 +42,11 @@
 6  | Sep 28-Oct  4 | ODE integrators II: implicit and symplectic methods      | Code optimization                        | Numerical PDE I: Finite Difference (HW3 Q&A)
 7  | Oct  5-Oct 11 | Numerical PDE II: Spectral Methods                       | Parallel Computing                       | Numerical PDE III: Finite Volume Methods (HW3 due, HW4 assigned)
 8  | Oct 12-Oct 18 | Project Presentations                                    | HPC and Slurm                            | Projects Presentations (HW4 Q&A)
-9  | Oct 19-Oct 25 | | | (HW4 due)
-10 | Oct 26-Nov  1 |
-11 | Nov  2-Nov  8 |
-12 | Nov  9-Nov 15 | | No class (Veterans Day) |
-13 | Nov 16-Nov 22 |
-14 | Nov 23-Nov 29 |
-15 | Nov 30-Dec  6 |
-16 | Dec  7-Dec 13 | | Visit UA HPC (?) | Final exams
+9  | Oct 19-Oct 25 | Probability | | Random Variable (HW4 due)
+10 | Oct 26-Nov  1 | Statistics | | Sampling Distribution
+11 | Nov  2-Nov  8 | Classical inference (point estimation) | | Classical inference (interval estimation) 
+12 | Nov  9-Nov 15 | Classical inference (hypothesis test) | No class (Veterans Day) | Structure analysis 
+13 | Nov 16-Nov 22 | Principle components | | Regression
+14 | Nov 23-Nov 29 | Bayesian inference | | 
+15 | Nov 30-Dec  6 | MCMC | | Hierarchical Bayesian 
+16 | Dec  7-Dec 13 | Review (Q&A) | Visit UA HPC (?) | Final exams
