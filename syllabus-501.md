@@ -154,20 +154,25 @@ trip to UA's Computer Center and see our supercomputers.
 
 ### Schedule/Due Dates
 
-...
+This course includes 12 in-class, hands-on labs.
+There should be enough time during class for students to finish the labs.
 
 ### Writing Requirement
 
 Although this is not a writing intensive course, good documentation is
-essential in communicating science and developing software.
+essential in communicating science and developing software, and will be 
+used in evaluating homework and/or projects.
 
 ### Final Examination or Project
 
-...
+There is a final project for this course.
+Project presentations are scheduled on November 26th and December 3rd.
 
 ## Grading Scale and Policies
 
-...
+This course provides pass/fail grades.
+Students who finish majority of hands-on labs and create reasonable
+projects would receive pass grades.
 
 **Incomplete (I) or Withdrawal (W):**
 Requests for incomplete (I) or withdrawal (W) must be made in
@@ -181,7 +186,7 @@ through email to re-evaluate the grade within a week from the time
 that the student receives the grade.
 Because no scaling will be applied in the final grade, the final grade
 cannot be re-evaluated.
-The student is expected to know his or her own performance throughout
+A student is expected to know his or her own performance throughout
 the course.
 
 ## Scheduled Topics/Activities

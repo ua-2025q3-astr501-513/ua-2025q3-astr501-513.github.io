@@ -90,8 +90,6 @@ following topics:
   * Inferring Distributions
   * Fast Fourier Transforms
 
-
-
 ## Policies of Course
 
 ### Absence and Class Participation Policy
@@ -175,20 +173,39 @@ trip to UA's Computer Center and see our supercomputers.
 
 ### Schedule/Due Dates
 
-...
+This course includes 7 homework assignments, with 10 points each.
+The homeworks will be assigned approximately every two weeks and due
+a week after they are posted.
+Late homework will received reduced grades.
 
 ### Writing Requirement
 
 Although this is not a writing intensive course, good documentation is
-essential in communicating science and developing software.
+essential in communicating science and developing software, and will be
+used in evaluating homework and/or projects.
 
 ### Final Examination or Project
 
-...
+One final exam is scheduled on December 10th.
+It worth 30 points.
 
 ## Grading Scale and Policies
 
-...
+The course includes 7 homework assignments and 1 final exam.
+Each homework worth 10 points and the final worth 30 points, sum up to
+100 points total.
+Students are expected to submit their assignments and projects by the
+specified deadlines.
+
+This course provides regular letter grades (A–E), which are based on a simple point system:
+* A: 90–100  points
+* B: 80–89.9 points
+* C: 70–79.9 points
+* D: 60–69.9 points
+* E:  0–59.9 points
+
+No scaling will be applied.
+However, there are multiple opportunities to receive extra credits.
 
 **Incomplete (I) or Withdrawal (W):**
 Requests for incomplete (I) or withdrawal (W) must be made in
@@ -202,7 +219,7 @@ through email to re-evaluate the grade within a week from the time
 that the student receives the grade.
 Because no scaling will be applied in the final grade, the final grade
 cannot be re-evaluated.
-The student is expected to know his or her own performance throughout
+A students is expected to know his or her own performance throughout
 the course.
 
 ## Scheduled Topics/Activities
