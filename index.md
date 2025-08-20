@@ -47,6 +47,6 @@
 11 | Nov  2-Nov  8 | Classical inference (point estimation)                   | Hydrodynamic Simulation 3                | Classical inference (interval estimation) 
 12 | Nov  9-Nov 15 | Classical inference (hypothesis test)                    | No class (Veterans Day)                  | Structure analysis 
 13 | Nov 16-Nov 22 | Principle components                                     | Hydrodynamic Simulation 4                | Regression
-14 | Nov 23-Nov 29 | Bayesian inference                                       | Visit UA HPC                             | Machine-learning 
-15 | Nov 30-Dec  6 | MCMC                                                     | Presentation 1                           | Hierarchical Bayesian 
-16 | Dec  7-Dec 13 | Review (Q&A)                                             | Presentation 2                           | Final exams
+14 | Nov 23-Nov 29 | Bayesian inference                                       | Presentation 1                           | Machine-learning 
+15 | Nov 30-Dec  6 | MCMC                                                     | Presentation 2                           | Hierarchical Bayesian 
+16 | Dec  7-Dec 13 | Review (Q&A)                                             | Visit UA HPC                             | Final exams
