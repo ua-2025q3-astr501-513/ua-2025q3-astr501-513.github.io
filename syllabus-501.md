@@ -1,3 +1,8 @@
+---
+exports:
+  - format: pdf
+    template: lapreprint-typst
+---
 # ASTR 501 Full Syllabus
 
 **Course Number & Title:** [ASTR 501 Introduction to Computing](https://catalog.arizona.edu/courses/0413111)  
@@ -191,7 +196,24 @@ the course.
 
 ## Scheduled Topics/Activities
 
-See [](index.md#schedule).
+#  | Week | Tuesday
+--- | --- | ---
+1  | Aug 24-Aug 30 | Jupyter Notebook and Python
+2  | Aug 31-Sep  6 | Unix/Linux, Shell, and Git
+3  | Sep  7-Sep 13 | Software Environment and Cloud Computing
+4  | Sep 14-Sep 20 | Make, Workflow, and GitHub Action
+5  | Sep 21-Sep 27 | C/C++
+6  | Sep 28-Oct  4 | Code optimization
+7  | Oct  5-Oct 11 | Parallel Computing
+8  | Oct 12-Oct 18 | HPC and Slurm
+9  | Oct 19-Oct 25 | Hydrodynamic Simulation 1
+10 | Oct 26-Nov  1 | Hydrodynamic Simulation 2
+11 | Nov  2-Nov  8 | Hydrodynamic Simulation 3
+12 | Nov  9-Nov 15 | No class (Veterans Day)
+13 | Nov 16-Nov 22 | Hydrodynamic Simulation 4
+14 | Nov 23-Nov 29 | Presentation 1
+15 | Nov 30-Dec  6 | Presentation 2
+16 | Dec  7-Dec 13 | Visit UA HPC
 
 ## Code of Conduct
 

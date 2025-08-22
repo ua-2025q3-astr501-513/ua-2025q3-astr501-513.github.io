@@ -1,3 +1,8 @@
+---
+exports:
+  - format: pdf
+    template: lapreprint-typst
+---
 # ASTR 513 Full Syllabus
 
 **Course Number & Title:** [ASTR 513 Statistical and Computational Methods in Astrophysics](https://catalog.arizona.edu/courses/0404141)  
@@ -224,7 +229,24 @@ the course.
 
 ## Scheduled Topics/Activities
 
-See [](index.md#schedule).
+#  | Week | Monday | Wednesday
+--- | --- | --- | ---
+1  | Aug 24-Aug 30 | Overview (Proj brainstorm)                               | Data Representation and Round-Off Errors (HW1 assigned)
+2  | Aug 31-Sep  6 | No class (Labor Day)                                     | Numerical Linear Algebra (HW1 Q&A)
+3  | Sep  7-Sep 13 | Fourier Transform and Spectral Analyses (Proj selection) | Interpolation and Extrapolation (HW1 due, HW2 assigned)
+4  | Sep 14-Sep 20 | Numerical and Automatic Derivatives                      | Numerical Integration of Functions (HW2 Q&A)
+5  | Sep 21-Sep 27 | Root Finding and Optimization Methods (Proj feedback)    | ODE Integrators I: Explicit Methods (HW2 due, HW3 assigned)
+6  | Sep 28-Oct  4 | ODE integrators II: implicit and symplectic methods      | Numerical PDE I: Finite Difference (HW3 Q&A)
+7  | Oct  5-Oct 11 | Numerical PDE II: Spectral Methods                       | Numerical PDE III: Finite Volume Methods (HW3 due, HW4 assigned)
+8  | Oct 12-Oct 18 | Project Presentations                                    | Projects Presentations (HW4 Q&A)
+9  | Oct 19-Oct 25 | Probability                                              | Random Variable (HW4 due)
+10 | Oct 26-Nov  1 | Statistics                                               | Sampling Distribution
+11 | Nov  2-Nov  8 | Classical inference (point estimation)                   | Classical inference (interval estimation)
+12 | Nov  9-Nov 15 | Classical inference (hypothesis test)                    | Structure analysis
+13 | Nov 16-Nov 22 | Principle components                                     | Regression
+14 | Nov 23-Nov 29 | Bayesian inference                                       | Machine-learning
+15 | Nov 30-Dec  6 | MCMC                                                     | Hierarchical Bayesian
+16 | Dec  7-Dec 13 | Review (Q&A)                                             | Final exams
 
 ## Code of Conduct
 
