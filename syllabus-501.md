@@ -3,7 +3,7 @@ exports:
   - format: pdf
     template: lapreprint-typst
 ---
-# ASTR 501 Full Syllabus
+# ASTR 501 Syllabus
 
 **Course Number & Title:** [ASTR 501 Introduction to Computing](https://catalog.arizona.edu/courses/0413111)  
 **Course Website:** https://ua-2025q3-astr501-513.github.io

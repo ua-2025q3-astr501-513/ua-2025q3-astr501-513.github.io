@@ -3,7 +3,7 @@ exports:
   - format: pdf
     template: lapreprint-typst
 ---
-# ASTR 513 Full Syllabus
+# ASTR 513 Syllabus
 
 **Course Number & Title:** [ASTR 513 Statistical and Computational Methods in Astrophysics](https://catalog.arizona.edu/courses/0404141)  
 **Course Website:** https://ua-2025q3-astr501-513.github.io
