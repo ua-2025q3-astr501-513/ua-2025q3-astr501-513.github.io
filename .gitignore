@@ -1,2 +1,14 @@
-# MyST build outputs
-_build
+*
+!*/
+!*.md
+!*.py
+!*.tex
+!*.ipynb
+
+!*.png
+!*.jpg
+!*.pdf
+
+__pycache__/
+.ipynb_checkpoints/
+_build/
