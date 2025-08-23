@@ -16,9 +16,11 @@ project:
     - title: ASTR 501
       children:
         - file: syllabus-501.md
+        - pattern: '*/lab.*'
     - title: ASTR 513
       children:
         - file: syllabus-513.md
+        - pattern: '*/notes.*'
 
 site:
   template: book-theme
