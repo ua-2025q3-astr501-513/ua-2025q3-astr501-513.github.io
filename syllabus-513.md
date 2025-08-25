@@ -14,12 +14,12 @@ exports:
 
 ## Description of Course
 
-Introduction to computing for incoming astronomy and astrophysics
-graduate students.
-Course will cover basics of programming in Python and C++, including
-commonly-used libraries for astronomical research, an introduction to
-computer hardware including coprocessors such as GPUs, and some
-introductory concepts from computer science.
+This course provides an introduction to statistical and computational
+methods in astronomy and astrophysics for incoming graduate students.
+It covers the basics of programming in Python and C/C++, including
+fundamental concepts of computer hardware, commonly used statistical
+and numerical methods, software libraries for astronomical research,
+and selected topics in computer science and software engineering.
 
 ### Course Prerequisites or Co-requisites
 
