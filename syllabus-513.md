@@ -169,11 +169,10 @@ trip to UA's Computer Center and see our supercomputers.
 
 ### Schedule/Due Dates
 
-This course includes 7 homework assignments, with 10 points each.
-The homeworks will be assigned approximately every two weeks and due
-a week after they are posted.
+This course includes 10 homework assignments.
+The due dates are listed in the schedule.
+We try to give at least one week of time for finishing each homework.
 Late homework will received reduced grades.
-The lowest two homework will be dropped.
 
 ### Writing Requirement
 
@@ -181,34 +180,31 @@ Although this is not a writing intensive course, good documentation is
 essential in communicating science and developing software, and will be
 used in evaluating homework and/or projects.
 
-### Final Examination or Project
+### Project
 
 Students are expected to work in groups of 3 to 6 for their
 projects.
-Each project is worth 20 points and will be evaluated on four
-criteria:
+Each project is will be evaluated on four criteria:
 i)   originality and clarity of the idea,
 ii)  quality of the solution,
 iii) thoroughness of the documentation, and
 iv)  effectiveness of the presentation.
-
 Presentations are scheduled during the week of October 12.
-The final project package—including presentation slides and any
-supporting materials—must be submitted on the day of the presentation.
+The final project package, including presentation slides and any
+supporting materials, must be submitted on the day of the presentation.
 
-One final exam is scheduled on December 10th.
-It is worth 30 points.
+### Final Examination
+
+A written final exam is scheduled on December 10th.
 
 ## Grading Scale and Policies
 
-The course includes 7 homework assignments, 1 project, and 1 final
+The course includes 10 homework assignments, 1 project, and 1 final
 exam.
-Each homework is worth 10 points, the project is worth 20 points, and
+Each homework is worth 5 points, the project is worth 20 points, and
 the final exam is worth 30 points.
 The lowest two homework scores will be dropped, bringing the total to
 100 points.
-Students are expected to submit all assignments and the project by the
-specified deadlines.
 
 This course provides regular letter grades (A-E), which are based on a
 simple point system:
@@ -219,6 +215,7 @@ simple point system:
 * E:  0-59.9 points
 
 No scaling will be applied.
+However, there are multiple opportunities to obtain extra credits.
 
 **Incomplete (I) or Withdrawal (W):**
 Requests for incomplete (I) or withdrawal (W) must be made in
