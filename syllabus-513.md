@@ -14,17 +14,20 @@ exports:
 
 ## Description of Course
 
-This course provides an introduction to statistical and computational
-methods in astronomy and astrophysics for incoming graduate students.
-It covers the basics of programming in Python and C/C++, including
-fundamental concepts of computer hardware, commonly used statistical
-and numerical methods, software libraries for astronomical research,
-and selected topics in computer science and software engineering.
+This course introduce basic computational methods for solving problems
+numerically in astrophysics and the foundations of modern statistical
+methods that are used in current research problems, with emphasis on
+big-data science.
+The topics will include basic scientific algorithms to solve integrals
+and simple differential equations frequently encountered in
+astrophysics, frequentist and Bayesian inference methods, non-linear
+regressions methods, modeling of data, Monte Carlo techniques, error
+estimation, and model selection.
 
 ### Course Prerequisites or Co-requisites
 
 This course is recommended in conjunction with
-[ASTR 501 Introduction to Computing](https://catalog.arizona.edu/courses/0413111).  
+[ASTR 501 Introduction to Computing](https://catalog.arizona.edu/courses/0413111).
 
 ### Instructor and Contact Information
 
@@ -41,18 +44,6 @@ This course is recommended in conjunction with
 ### Course Format and Teaching Methods
 
 Live in person; lecture and lab combination.
-
-### Course Objectives
-
-This course introduce basic computational methods for solving problems
-numerically in astrophysics and the foundations of modern statistical
-methods that are used in current research problems, with emphasis on
-big-data science.
-The topics will include basic scientific algorithms to solve integrals
-and simple differential equations frequently encountered in
-astrophysics, frequentist and Bayesian inference methods, non-linear
-regressions methods, modeling of data, Monte Carlo techniques, error
-estimation, and model selection.
 
 ### Expected Learning Outcomes
 
@@ -72,8 +63,8 @@ Upon completion of this course, students will be able to:
 * Appreciate computational complexity and develop a basic awareness of
   numerical errors and their impact on research outcomes.
 
-Specifically, a recent core class homogenization suggested covering the
-following topics:
+Specifically, a recent core class homogenization effort suggested
+covering the following topics:
 * Computational Methods:
   * Unix, C, and Python
   * Introduction to numerical analysis; errors, accuracy, stable and unstable computations
@@ -182,6 +173,7 @@ This course includes 7 homework assignments, with 10 points each.
 The homeworks will be assigned approximately every two weeks and due
 a week after they are posted.
 Late homework will received reduced grades.
+The lowest two homework will be dropped.
 
 ### Writing Requirement
 
@@ -191,26 +183,42 @@ used in evaluating homework and/or projects.
 
 ### Final Examination or Project
 
+Students are expected to work in groups of 2 to 4 for their
+projects.
+Each project is worth 20 points and will be evaluated on four
+criteria:
+i)   originality and clarity of the idea,
+ii)  quality of the solution,
+iii) thoroughness of the documentation, and
+iv)  effectiveness of the presentation.
+
+Presentations are scheduled during the week of October 12.
+The final project package—including presentation slides and any
+supporting materials—must be submitted on the day of the presentation.
+
 One final exam is scheduled on December 10th.
-It worth 30 points.
+It is worth 30 points.
 
 ## Grading Scale and Policies
 
-The course includes 7 homework assignments and 1 final exam.
-Each homework worth 10 points and the final worth 30 points, sum up to
-100 points total.
-Students are expected to submit their assignments and projects by the
+The course includes 7 homework assignments, 1 project, and 1 final
+exam.
+Each homework is worth 10 points, the project is worth 20 points, and
+the final exam is worth 30 points.
+The lowest two homework scores will be dropped, bringing the total to
+100 points.
+Students are expected to submit all assignments and the project by the
 specified deadlines.
 
-This course provides regular letter grades (A–E), which are based on a simple point system:
-* A: 90–100  points
-* B: 80–89.9 points
-* C: 70–79.9 points
-* D: 60–69.9 points
-* E:  0–59.9 points
+This course provides regular letter grades (A-E), which are based on a
+simple point system:
+* A: 90-100  points
+* B: 80-89.9 points
+* C: 70-79.9 points
+* D: 60-69.9 points
+* E:  0-59.9 points
 
 No scaling will be applied.
-However, there are multiple opportunities to receive extra credits.
 
 **Incomplete (I) or Withdrawal (W):**
 Requests for incomplete (I) or withdrawal (W) must be made in
@@ -224,7 +232,7 @@ through email to re-evaluate the grade within a week from the time
 that the student receives the grade.
 Because no scaling will be applied in the final grade, the final grade
 cannot be re-evaluated.
-A students is expected to know his or her own performance throughout
+A student is expected to know his or her own performance throughout
 the course.
 
 ## Scheduled Topics/Activities
@@ -322,23 +330,27 @@ discrimination of others.
 
 ### Usage of Generative AI
 
-Homework and projects in this course are designed to help students
-apply class concepts, test their learning, and develop software
-development and science communication skills.
-Generative AI tools, such as ChatGPT, Google Gemini, and GitHub
-Co-Pilot, can be useful for brainstorming and debugging.
-However, students must write their own code, take full responsibility
-for their work, and demonstrate a clear understanding of the concepts.
+Homework, projects, and exams in this course are designed to help
+students apply class concepts, test their understanding, and develop
+skills in software development and scientific communication.
+Generative AI tools such as ChatGPT, Google Gemini, and GitHub Copilot
+can be valuable for brainstorming, exploring alternative approaches,
+clarifying confusing concepts, and debugging code.
+Students may also use these tools to clarify difficult concepts and to
+generate examples that aid their learning.
 
-While AI tools can assist learning, they may produce inaccurate or
-biased outputs.
-Students are responsible for verifying facts and critically assessing
-all submitted material.
-Any use of generative AI must be acknowledged or cited (see
-[guidelines from UA
-library](https://libguides.library.arizona.edu/students-chatgpt/citing)).
-Failure to disclose such use or to write original code will be
-considered a violation of academic integrity.
+However, students must write their own code, take full responsibility
+for their work, and demonstrate a clear understanding of the
+underlying concepts.
+While AI tools can support learning, they may produce inaccurate,
+incomplete, or biased results.
+Students are responsible for verifying facts, testing code, and
+critically assessing all submitted material.
+
+Any use of generative AI must be acknowledged or cited (see guidelines
+from UA library).
+Failure to disclose such use, or submitting work that is not original,
+will be considered a violation of academic integrity.
 
 For questions, contact your instructor.
 
