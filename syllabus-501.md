@@ -42,18 +42,6 @@ This course is recommended in conjunction with
 
 Live in person; lecture and lab combination.
 
-### Course Objectives
-
-ASTR 501 aims to develop students' proficiency in applying statistical
-and computational methods to astrophysical research.
-Through hands-on labs and presentations, students will gain experience
-of how to employ statistic techniques for analyzing and interpreting
-astrophysical data, as well as developing numerical algorithms to
-solve a variety of problems.
-The course will also empower students to independently learn new
-computational tools, recognize common pitfalls, and critically
-evaluate the implications of their findings.
-
 ### Expected Learning Outcomes
 
 Upon completion of this course, students will be able to:
@@ -165,13 +153,12 @@ There should be enough time during class for students to finish the labs.
 ### Writing Requirement
 
 Although this is not a writing intensive course, good documentation is
-essential in communicating science and developing software, and will be 
+essential in communicating science and developing software, and will be
 used in evaluating homework and/or projects.
 
 ### Final Examination or Project
 
-There is a final project for this course.
-Project presentations are scheduled on November 26th and December 3rd.
+Presentations are scheduled on November 26th and December 3rd.
 
 ## Grading Scale and Policies
 
@@ -289,23 +276,27 @@ discrimination of others.
 
 ### Usage of Generative AI
 
-Homework and projects in this course are designed to help students
-apply class concepts, test their learning, and develop software
-development and science communication skills.
-Generative AI tools, such as ChatGPT, Google Gemini, and GitHub
-Co-Pilot, can be useful for brainstorming and debugging.
-However, students must write their own code, take full responsibility
-for their work, and demonstrate a clear understanding of the concepts.
+Homework, projects, and exams in this course are designed to help
+students apply class concepts, test their understanding, and develop
+skills in software development and scientific communication.
+Generative AI tools such as ChatGPT, Google Gemini, and GitHub Copilot
+can be valuable for brainstorming, exploring alternative approaches,
+clarifying confusing concepts, and debugging code.
+Students may also use these tools to clarify difficult concepts and to
+generate examples that aid their learning.
 
-While AI tools can assist learning, they may produce inaccurate or
-biased outputs.
-Students are responsible for verifying facts and critically assessing
-all submitted material.
-Any use of generative AI must be acknowledged or cited (see
-[guidelines from UA
-library](https://libguides.library.arizona.edu/students-chatgpt/citing)).
-Failure to disclose such use or to write original code will be
-considered a violation of academic integrity.
+However, students must write their own code, take full responsibility
+for their work, and demonstrate a clear understanding of the
+underlying concepts.
+While AI tools can support learning, they may produce inaccurate,
+incomplete, or biased results.
+Students are responsible for verifying facts, testing code, and
+critically assessing all submitted material.
+
+Any use of generative AI must be acknowledged or cited (see guidelines
+from UA library).
+Failure to disclose such use, or submitting work that is not original,
+will be considered a violation of academic integrity.
 
 For questions, contact your instructor.
 
