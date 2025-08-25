@@ -183,7 +183,7 @@ used in evaluating homework and/or projects.
 
 ### Final Examination or Project
 
-Students are expected to work in groups of 2 to 4 for their
+Students are expected to work in groups of 3 to 6 for their
 projects.
 Each project is worth 20 points and will be evaluated on four
 criteria:
