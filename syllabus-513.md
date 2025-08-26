@@ -203,8 +203,7 @@ The course includes 10 homework assignments, 1 project, and 1 final
 exam.
 Each homework is worth 5 points, the project is worth 20 points, and
 the final exam is worth 30 points.
-The lowest two homework scores will be dropped, bringing the total to
-100 points.
+The total is 100 points.
 
 This course provides regular letter grades (A-E), which are based on a
 simple point system:
