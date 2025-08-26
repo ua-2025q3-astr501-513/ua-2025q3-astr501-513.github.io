@@ -164,7 +164,7 @@ Presentations are scheduled on November 26th and December 3rd.
 
 This course provides pass/fail grades.
 Students who finish majority of hands-on labs and create reasonable
-projects would receive pass grades.
+projects would receive passing grades.
 
 **Incomplete (I) or Withdrawal (W):**
 Requests for incomplete (I) or withdrawal (W) must be made in
