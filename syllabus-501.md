@@ -16,7 +16,7 @@ exports:
 
 Introduction to computing for incoming astronomy and astrophysics
 graduate students.
-Course will cover basics of programming in Python and C++, including
+Course will cover basics of programming in Python and C/C++, including
 commonly-used libraries for astronomical research, an introduction to
 computer hardware including coprocessors such as GPUs, and some
 introductory concepts from computer science.
