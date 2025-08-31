@@ -185,7 +185,7 @@ the course.
 
 #  | Week | Tuesday
 --- | --- | ---
-1  | Aug 24-Aug 30 | Jupyter Notebook and Python
+1  | Aug 24-Aug 30 | [](01t/lab.ipynb)
 2  | Aug 31-Sep  6 | Unix/Linux, Shell, and Git
 3  | Sep  7-Sep 13 | Software Environment and Cloud Computing
 4  | Sep 14-Sep 20 | Make, Workflow, and GitHub Action

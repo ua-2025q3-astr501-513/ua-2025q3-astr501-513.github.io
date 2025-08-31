@@ -235,7 +235,7 @@ the course.
 
 #  | Week | Monday | Wednesday
 --- | --- | --- | ---
-1  | Aug 24-Aug 30 | Overview (Proj brainstorm)                               | Data Representation and Round-Off Errors (HW1 assigned)
+1  | Aug 24-Aug 30 | [](01m/notes.ipynb) (Proj brainstorm)                    | [](01w/notes.ipynb) ([HW1 assigned](https://classroom.github.com/a/r-eqz-mO))
 2  | Aug 31-Sep  6 | No class (Labor Day)                                     | Numerical Linear Algebra (HW1 Q&A)
 3  | Sep  7-Sep 13 | Fourier Transform and Spectral Analyses (Proj selection) | Interpolation and Extrapolation (HW1 due, HW2 assigned)
 4  | Sep 14-Sep 20 | Numerical and Automatic Derivatives                      | Numerical Integration of Functions (HW2 Q&A)
