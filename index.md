@@ -35,7 +35,7 @@
 #  | Week | Monday (513) | Tuesday (501) | Wednesday (513)
 --- | --- | --- | --- | ---
 1  | Aug 24-Aug 30 | [](01m/notes.ipynb) (Proj brainstorm)                    | [](01t/lab.ipynb)                        | [](01w/notes.ipynb) ([HW1 assigned](https://classroom.github.com/a/r-eqz-mO))
-2  | Aug 31-Sep  6 | No class (Labor Day)                                     | Unix/Linux, Shell, and Git               | Numerical Linear Algebra (HW1 Q&A)
+2  | Aug 31-Sep  6 | No class (Labor Day)                                     | Unix/Linux, Shell, and Git               | [](02w/notes.ipynb) (HW1 Q&A)
 3  | Sep  7-Sep 13 | Fourier Transform and Spectral Analyses (Proj selection) | Software Environment and Cloud Computing | Interpolation and Extrapolation (HW1 due, HW2 assigned)
 4  | Sep 14-Sep 20 | Numerical and Automatic Derivatives                      | Make, Workflow, and GitHub Action        | Numerical Integration of Functions (HW2 Q&A)
 5  | Sep 21-Sep 27 | Root Finding and Optimization Methods (Proj feedback)    | C/C++                                    | ODE Integrators I: Explicit Methods (HW2 due, HW3 assigned)
