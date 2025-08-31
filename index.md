@@ -34,10 +34,10 @@
 
 #  | Week | Monday (513) | Tuesday (501) | Wednesday (513)
 --- | --- | --- | --- | ---
-1  | Aug 24-Aug 30 | [](513/00/notes.ipynb) (Proj brainstorm)                 | [](501/00/lab.ipynb)      | [](513/01/notes.ipynb) ([HW1 assigned](https://classroom.github.com/a/r-eqz-mO))
-2  | Aug 31-Sep  6 | No class (Labor Day)                                     | [](501/01/lab.ipynb)      | [](513/02/notes.ipynb) (HW1 Q&A)
-3  | Sep  7-Sep 13 | Fourier Transform and Spectral Analyses (Proj selection) | [](501/02/lab.ipynb)      | Interpolation and Extrapolation (HW1 due, HW2 assigned)
-4  | Sep 14-Sep 20 | Numerical and Automatic Derivatives                      | [](501/03/lab.ipynb)      | Numerical Integration of Functions (HW2 Q&A)
+1  | Aug 24-Aug 30 | [](513/00/notes.ipynb) (Proj brainstorm) | [](501/00/lab.ipynb)      | [](513/01/notes.ipynb) ([HW1 assigned](https://classroom.github.com/a/r-eqz-mO))
+2  | Aug 31-Sep  6 | No class (Labor Day)                     | [](501/01/lab.ipynb)      | [](513/02/notes.ipynb) (HW1 Q&A)
+3  | Sep  7-Sep 13 | [](513/03/notes.ipynb) (Proj selection)  | [](501/02/lab.ipynb)      | [](513/04/notes.ipynb) (HW1 due, HW2 assigned)
+4  | Sep 14-Sep 20 | [](513/05/notes.ipynb)                   | [](501/03/lab.ipynb)      | [](513/06/notes.ipynb) (HW2 Q&A)
 5  | Sep 21-Sep 27 | Root Finding and Optimization Methods (Proj feedback)    | C/C++                     | ODE Integrators I: Explicit Methods (HW2 due, HW3 assigned)
 6  | Sep 28-Oct  4 | ODE integrators II: implicit and symplectic methods      | Code optimization         | Numerical PDE I: Finite Difference (HW3 Q&A)
 7  | Oct  5-Oct 11 | Numerical PDE II: Spectral Methods                       | Parallel Computing        | Numerical PDE III: Finite Volume Methods (HW3 due, HW4 assigned)
