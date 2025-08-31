@@ -186,9 +186,9 @@ the course.
 #  | Week | Tuesday
 --- | --- | ---
 1  | Aug 24-Aug 30 | [](501/00/lab.ipynb)
-2  | Aug 31-Sep  6 | Unix/Linux, Shell, and Git
-3  | Sep  7-Sep 13 | Software Environment and Cloud Computing
-4  | Sep 14-Sep 20 | Make, Workflow, and GitHub Action
+2  | Aug 31-Sep  6 | [](501/01/lab.ipynb)
+3  | Sep  7-Sep 13 | [](501/02/lab.ipynb)
+4  | Sep 14-Sep 20 | [](501/03/lab.ipynb)
 5  | Sep 21-Sep 27 | C/C++
 6  | Sep 28-Oct  4 | Code optimization
 7  | Oct  5-Oct 11 | Parallel Computing

@@ -34,19 +34,19 @@
 
 #  | Week | Monday (513) | Tuesday (501) | Wednesday (513)
 --- | --- | --- | --- | ---
-1  | Aug 24-Aug 30 | [](513/00/notes.ipynb) (Proj brainstorm)                 | [](501/00/lab.ipynb)                     | [](513/01/notes.ipynb) ([HW1 assigned](https://classroom.github.com/a/r-eqz-mO))
-2  | Aug 31-Sep  6 | No class (Labor Day)                                     | Unix/Linux, Shell, and Git               | [](513/02/notes.ipynb) (HW1 Q&A)
-3  | Sep  7-Sep 13 | Fourier Transform and Spectral Analyses (Proj selection) | Software Environment and Cloud Computing | Interpolation and Extrapolation (HW1 due, HW2 assigned)
-4  | Sep 14-Sep 20 | Numerical and Automatic Derivatives                      | Make, Workflow, and GitHub Action        | Numerical Integration of Functions (HW2 Q&A)
-5  | Sep 21-Sep 27 | Root Finding and Optimization Methods (Proj feedback)    | C/C++                                    | ODE Integrators I: Explicit Methods (HW2 due, HW3 assigned)
-6  | Sep 28-Oct  4 | ODE integrators II: implicit and symplectic methods      | Code optimization                        | Numerical PDE I: Finite Difference (HW3 Q&A)
-7  | Oct  5-Oct 11 | Numerical PDE II: Spectral Methods                       | Parallel Computing                       | Numerical PDE III: Finite Volume Methods (HW3 due, HW4 assigned)
-8  | Oct 12-Oct 18 | Project Presentations                                    | HPC and Slurm                            | Projects Presentations (HW4 Q&A)
-9  | Oct 19-Oct 25 | Probability                                              | Hydrodynamic Simulation 1                | Random Variable (HW4 due)
-10 | Oct 26-Nov  1 | Statistics                                               | Hydrodynamic Simulation 2                | Sampling Distribution
-11 | Nov  2-Nov  8 | Classical inference (point estimation)                   | Hydrodynamic Simulation 3                | Classical inference (interval estimation) 
-12 | Nov  9-Nov 15 | Classical inference (hypothesis test)                    | No class (Veterans Day)                  | Structure analysis 
-13 | Nov 16-Nov 22 | Principle components                                     | Hydrodynamic Simulation 4                | Regression
-14 | Nov 23-Nov 29 | Bayesian inference                                       | Presentation 1                           | Machine-learning 
-15 | Nov 30-Dec  6 | MCMC                                                     | Presentation 2                           | Hierarchical Bayesian 
-16 | Dec  7-Dec 13 | Review (Q&A)                                             | Visit UA HPC                             | Final exams
+1  | Aug 24-Aug 30 | [](513/00/notes.ipynb) (Proj brainstorm)                 | [](501/00/lab.ipynb)      | [](513/01/notes.ipynb) ([HW1 assigned](https://classroom.github.com/a/r-eqz-mO))
+2  | Aug 31-Sep  6 | No class (Labor Day)                                     | [](501/01/lab.ipynb)      | [](513/02/notes.ipynb) (HW1 Q&A)
+3  | Sep  7-Sep 13 | Fourier Transform and Spectral Analyses (Proj selection) | [](501/02/lab.ipynb)      | Interpolation and Extrapolation (HW1 due, HW2 assigned)
+4  | Sep 14-Sep 20 | Numerical and Automatic Derivatives                      | [](501/03/lab.ipynb)      | Numerical Integration of Functions (HW2 Q&A)
+5  | Sep 21-Sep 27 | Root Finding and Optimization Methods (Proj feedback)    | C/C++                     | ODE Integrators I: Explicit Methods (HW2 due, HW3 assigned)
+6  | Sep 28-Oct  4 | ODE integrators II: implicit and symplectic methods      | Code optimization         | Numerical PDE I: Finite Difference (HW3 Q&A)
+7  | Oct  5-Oct 11 | Numerical PDE II: Spectral Methods                       | Parallel Computing        | Numerical PDE III: Finite Volume Methods (HW3 due, HW4 assigned)
+8  | Oct 12-Oct 18 | Project Presentations                                    | HPC and Slurm             | Projects Presentations (HW4 Q&A)
+9  | Oct 19-Oct 25 | Probability                                              | Hydrodynamic Simulation 1 | Random Variable (HW4 due)
+10 | Oct 26-Nov  1 | Statistics                                               | Hydrodynamic Simulation 2 | Sampling Distribution
+11 | Nov  2-Nov  8 | Classical inference (point estimation)                   | Hydrodynamic Simulation 3 | Classical inference (interval estimation) 
+12 | Nov  9-Nov 15 | Classical inference (hypothesis test)                    | No class (Veterans Day)   | Structure analysis 
+13 | Nov 16-Nov 22 | Principle components                                     | Hydrodynamic Simulation 4 | Regression
+14 | Nov 23-Nov 29 | Bayesian inference                                       | Presentation 1            | Machine-learning 
+15 | Nov 30-Dec  6 | MCMC                                                     | Presentation 2            | Hierarchical Bayesian 
+16 | Dec  7-Dec 13 | Review (Q&A)                                             | Visit UA HPC              | Final exams
