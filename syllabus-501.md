@@ -189,10 +189,10 @@ the course.
 2  | Aug 31-Sep  6 | [](501/01/lab.ipynb)
 3  | Sep  7-Sep 13 | [](501/02/lab.ipynb)
 4  | Sep 14-Sep 20 | [](501/03/lab.ipynb)
-5  | Sep 21-Sep 27 | C/C++
-6  | Sep 28-Oct  4 | Code optimization
-7  | Oct  5-Oct 11 | Parallel Computing
-8  | Oct 12-Oct 18 | HPC and Slurm
+5  | Sep 21-Sep 27 | [](501/04/lab.ipynb)
+6  | Sep 28-Oct  4 | [](501/05/lab.ipynb)
+7  | Oct  5-Oct 11 | [](501/06/lab.ipynb)
+8  | Oct 12-Oct 18 | [](501/07/lab.ipynb)
 9  | Oct 19-Oct 25 | Hydrodynamic Simulation 1
 10 | Oct 26-Nov  1 | Hydrodynamic Simulation 2
 11 | Nov  2-Nov  8 | Hydrodynamic Simulation 3
