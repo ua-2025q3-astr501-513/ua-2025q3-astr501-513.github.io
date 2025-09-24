@@ -237,9 +237,9 @@ the course.
 --- | --- | --- | ---
 1  | Aug 24-Aug 30 | [](513/00/notes.ipynb) (Proj brainstorm) | [](513/01/notes.ipynb) ([HW1 assigned](https://classroom.github.com/a/r-eqz-mO))
 2  | Aug 31-Sep  6 | No class (Labor Day)                     | [](513/02/notes.ipynb) (HW1 Q&A)
-3  | Sep  7-Sep 13 | [](513/03/notes.ipynb) (Proj selection)  | [](513/04/notes.ipynb) (HW1 due, HW2 assigned)
+3  | Sep  7-Sep 13 | [](513/03/notes.ipynb) (Proj selection)  | [](513/04/notes.ipynb) (HW1 due, [HW2 assigned](https://classroom.github.com/a/uU-2bTB_))
 4  | Sep 14-Sep 20 | [](513/05/notes.ipynb)                   | [](513/06/notes.ipynb) (HW2 Q&A)
-5  | Sep 21-Sep 27 | [](513/07/notes.ipynb) (Proj feedback)   | [](513/08/notes.ipynb) (HW2 due, HW3 assigned)
+5  | Sep 21-Sep 27 | [](513/07/notes.ipynb) (Proj feedback)   | [](513/08/notes.ipynb) (HW2 due, [HW3 assigned](https://classroom.github.com/a/7xV0a93o))
 6  | Sep 28-Oct  4 | [](513/09/notes.ipynb)                   | [](513/10/notes.ipynb) (HW3 Q&A)
 7  | Oct  5-Oct 11 | [](513/11/notes.ipynb)                   | [](513/12/notes.ipynb) (HW3 due, HW4 assigned)
 8  | Oct 12-Oct 18 | Project Presentations                    | Projects Presentations (HW4 Q&A)
