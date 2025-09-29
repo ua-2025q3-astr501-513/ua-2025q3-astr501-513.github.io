@@ -39,8 +39,8 @@
 3  | Sep  7-Sep 13 | [](513/03/notes.ipynb) (Proj selection)  | [](501/02/lab.ipynb)      | [](513/04/notes.ipynb) (HW1 due, [HW2 assigned](https://classroom.github.com/a/uU-2bTB_))
 4  | Sep 14-Sep 20 | [](513/05/notes.ipynb)                   | [](501/03/lab.ipynb)      | [](513/06/notes.ipynb) (HW2 Q&A)
 5  | Sep 21-Sep 27 | [](513/07/notes.ipynb) (Proj feedback)   | [](501/04/lab.ipynb)      | [](513/08/notes.ipynb) (HW2 due, [HW3 assigned](https://classroom.github.com/a/7xV0a93o))
-6  | Sep 28-Oct  4 | [](513/09/notes.ipynb)                   | [](501/05/lab.ipynb)      | [](513/09/notes.ipynb) (HW3 Q&A)
-7  | Oct  5-Oct 11 | [](513/11/notes.ipynb)                   | [](501/06/lab.ipynb)      | [](513/11/notes.ipynb) (HW3 due, HW4 assigned)
+6  | Sep 28-Oct  4 | [](513/09/notes.ipynb)                   | [](501/05/lab.ipynb)      | [](513/10/notes.ipynb) (HW3 Q&A)
+7  | Oct  5-Oct 11 | [](513/11/notes.ipynb)                   | [](501/06/lab.ipynb)      | [](513/12/notes.ipynb) (HW3 due, HW4 assigned)
 8  | Oct 12-Oct 18 | Project Presentations                    | [](501/07/lab.ipynb)      | Projects Presentations (HW4 Q&A)
 9  | Oct 19-Oct 25 | Probability                              | Hydrodynamic Simulation 1 | Random Variable (HW4 due)
 10 | Oct 26-Nov  1 | Statistics                               | Hydrodynamic Simulation 2 | Sampling Distribution
